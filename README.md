@@ -1,4 +1,4 @@
-![](media/Picture1.png)
+![](media/Picture2.png)
 # Yana Nikolova
 ##                                  Specialized in Satellite Remote Sensing for Environmental Monitoring and Protection
 
